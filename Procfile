@@ -1,1 +1,1 @@
-echo "web: go-heroku" > Procfile
+web: bin/go-heroku
